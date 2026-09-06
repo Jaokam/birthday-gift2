@@ -489,7 +489,7 @@ if (startBtn) {
           resetStoryGame();
 
         },
-        350
+        4000
       );
 
     }
