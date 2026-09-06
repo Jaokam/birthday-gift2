@@ -489,7 +489,7 @@ if (startBtn) {
           resetStoryGame();
 
         },
-        4000
+        350
       );
 
     }
@@ -1277,7 +1277,7 @@ function showStory(text) {
         storyPaused = false;
 
       },
-      3000
+      7000
     );
 
 }
